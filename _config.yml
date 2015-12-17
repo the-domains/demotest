@@ -1,0 +1,28 @@
+name: DemoTest
+favicon: null
+layout_spectrum: 0.39770463900640607
+typography_spectrum: 0.23228863044641912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6464018598198891
+  lightness: 0.6008047629147768
+  saturation: 0.5906010903418064
+  rhythmicContrast: 0.044733631424605846
+purpose: []
